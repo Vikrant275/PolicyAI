@@ -1,0 +1,18 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+fastapi
+flask
+pyyaml
+pydantic_settings
+python-dotenv
+tenacity
+pdfplumber
+langchain
+langchain-text-splitters
+langchain-qdrant
+qdrant-client
+sentence_transformers
+
+-e .
